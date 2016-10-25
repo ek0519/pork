@@ -1,4 +1,5 @@
 from random import shuffle, choice, sample
+
 heart = '♥'
 spade = '♠'
 diamond = '♦'
